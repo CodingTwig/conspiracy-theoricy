@@ -1,0 +1,7 @@
+{
+  "name": "ConspiracyTheoricy ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
